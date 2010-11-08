@@ -6,6 +6,8 @@
 //  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
 
+// This is a test of the ability to push
+
 #import <UIKit/UIKit.h>
 
 int main(int argc, char *argv[]) {
